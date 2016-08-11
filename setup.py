@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import setuptools
+import json
 
 with open('HISTORY.rst') as f:
     history = f.read()
