@@ -1,0 +1,5 @@
+v1.0.2:
+Extension of the rule engine by custom operators
+
+v1.0.1:
+Fork was made from https://github.com/venmo/business-rules.git
