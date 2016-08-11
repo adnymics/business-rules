@@ -22,7 +22,7 @@ setuptools.setup(
         description='{0}\n\n{1}'.format(description, history),
         author='Venmo',
         author_email='open-source@venmo.com',
-        url='https://github.com/venmo/business-rules',
+        url='https://github.com/adnymics/business-rules',
         packages=['business_rules'],
         license='MIT'
 )

@@ -1,6 +1,12 @@
 History
 -------
 
+1.0.2
++++++
+released 2016-08-11
+
+- Forked to adnymics; added custom options
+
 1.0.1
 +++++
 released 2016-3-16
