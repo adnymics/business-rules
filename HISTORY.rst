@@ -1,6 +1,13 @@
 History
 -------
 
+
+1.0.5
++++++
+released 2016-8-18
+
+- Ability to create custom variables and custom operators
+
 1.0.1
 +++++
 released 2016-3-16
