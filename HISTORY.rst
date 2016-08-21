@@ -1,6 +1,17 @@
 History
 -------
 
+1.0.5
++++++
+released 2016-8-18
+- Ability to create custom variables and custom operators
+
+1.0.3
++++++
+released 2016-08-11
+
+- Fixed packaging structure
+
 1.0.2
 +++++
 released 2016-08-11

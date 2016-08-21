@@ -17,7 +17,7 @@ class Products(object):
         return [10, 11, 12]
 
     def save(self):
-        self.action_triggered = True;
+        self.action_triggered = True
 
 class Orders(object):
     def __init__(self, **entries):
@@ -155,7 +155,7 @@ class IntegrationTests(TestCase):
                 defined_variables=ProductVariables(product),
                 defined_actions=ProductActions(product),
                 defined_operators=CustomOperator(CustomType),
-                stop_on_first_trigger=True
+                stop_on_first_trigger=False
                 )
         assert triggered == True
         assert product.action_triggered == True
